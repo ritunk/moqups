@@ -1,12 +1,12 @@
 .navigation{
     display: flex;
-  margin-left: 450px;
+  margin-left: 200px;
     margin-top: 50px;
 }
 
 .sevenpr{
     display: flex;
-    margin-left:450px;
+    margin-left:200px;
     
 }
 
@@ -17,7 +17,7 @@
 
 .nav2{
     display: flex;
-    margin-left: 450px;
+    margin-left: 200px;
 }
 
 .M{
@@ -40,3 +40,4 @@
     font-style: bold;
     font-weight: 400;
 }
+

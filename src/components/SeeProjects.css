@@ -27,7 +27,8 @@
 
 .content{
     display: flex;
-    margin-left: 450px;
+    margin-left: 200px;
+    /* background-color: brown; */
 }
 
 .drop{
@@ -49,5 +50,9 @@
 
  .leftc hr{
     
-    margin-top: 35px;
+    margin-top: 76px;
+ }
+
+ .rightc hr{
+   margin-top: 48px;
  }
