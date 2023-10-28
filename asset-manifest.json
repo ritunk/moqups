@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moqups/static/css/main.891d04b5.css",
+    "main.js": "/moqups/static/js/main.9c1b4a97.js",
+    "index.html": "/moqups/index.html",
+    "main.891d04b5.css.map": "/moqups/static/css/main.891d04b5.css.map",
+    "main.9c1b4a97.js.map": "/moqups/static/js/main.9c1b4a97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891d04b5.css",
+    "static/js/main.9c1b4a97.js"
+  ]
+}
