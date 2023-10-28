@@ -1,0 +1,42 @@
+.navigation{
+    display: flex;
+  margin-left: 450px;
+    margin-top: 50px;
+}
+
+.sevenpr{
+    display: flex;
+    margin-left:450px;
+    
+}
+
+.seven{
+    margin-right: 15px;
+    color: chartreuse;
+}
+
+.nav2{
+    display: flex;
+    margin-left: 450px;
+}
+
+.M{
+    border: 1px solid green;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    font-style: bold;
+    font-weight: 400;
+    background-color:greenyellow;
+}
+
+.sub{
+    border: 1px solid green;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    font-style: bold;
+    font-weight: 400;
+}
