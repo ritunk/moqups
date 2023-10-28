@@ -14,7 +14,7 @@ function App() {
      <BrowserRouter>
     <Header/>
      <Routes>
-         <Route path='/' element={<Projects/>}></Route>
+         <Route path='/moqups' element={<Projects/>}></Route>
         <Route path='/matched' element={<Matched/>}></Route>
         <Route path='/searched' element={<Searched/>}></Route>
         <Route paht='/closed' element={<Closed/>}></Route>
